@@ -39,6 +39,7 @@ Meu primeiro projeto criado com flutter e integrado com Firebase para ajudar o g
 
 ![Screenshot_20200213-210205](https://user-images.githubusercontent.com/56653781/74492292-31cc4200-4ead-11ea-96ec-b764b446000f.png)
 ![Screenshot_20200213-210202](https://user-images.githubusercontent.com/56653781/74492645-596fda00-4eae-11ea-9ce4-bf0b4d022655.png)
+
 <ul> 
   <li>
     Todas as telas seguem o mesmo padrão:Escolhemos o que vamos postar no menu clicamos no botão flutuante, escolhemos a data que será o evento, preenchemos os campos e no card que é publicado aparece na parte superior a data do evento,na parte central os dados(escala ou músicas) e na de baixo o registro da data em que foi publicado.
@@ -46,11 +47,14 @@ Meu primeiro projeto criado com flutter e integrado com Firebase para ajudar o g
 </ul>
 
 ![Screenshot_20200213-210217](https://user-images.githubusercontent.com/56653781/74492651-5c6aca80-4eae-11ea-9f8c-0e62d34f494d.png)
+![Screenshot_20200213-223750](https://user-images.githubusercontent.com/56653781/74493740-b7ea8780-4eb1-11ea-9f54-74ea8e53a1ab.png)
+
+
 ![Screenshot_20200213-210341](https://user-images.githubusercontent.com/56653781/74492653-5ecd2480-4eae-11ea-8e7d-7c4a6c0481c3.png)
-
 ![Screenshot_20200213-210348](https://user-images.githubusercontent.com/56653781/74492660-61c81500-4eae-11ea-9939-2ca58ece968c.png)
-![Screenshot_20200213-210508](https://user-images.githubusercontent.com/56653781/74492668-64c30580-4eae-11ea-96f3-9d4d9c285c6c.png)
 
+
+![Screenshot_20200213-210508](https://user-images.githubusercontent.com/56653781/74492668-64c30580-4eae-11ea-96f3-9d4d9c285c6c.png)
 ![Screenshot_20200213-210512](https://user-images.githubusercontent.com/56653781/74492675-67255f80-4eae-11ea-920e-81566f4cedf3.png)
 
 
