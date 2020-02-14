@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "557332198443",
+    "firebase_url": "https://ibnv-84ca2.firebaseio.com",
+    "project_id": "ibnv-84ca2",
+    "storage_bucket": "ibnv-84ca2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:557332198443:android:8d735568de7aefc5",
+        "android_client_info": {
+          "package_name": "com.example.louvoribnv"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "557332198443-egfb67tgrp6nc136jn3e6645lctj8mf7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBU6sbnp7eWGnKXUEH-dQUEjEEJ40TDz2Q"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
