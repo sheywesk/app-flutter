@@ -1,6 +1,6 @@
 # louvoribnv
 
-Meu primeiro projeto criado com flutter e integrado com Firebase para ajudar o grupo de louvor de uma igreja. O projeto consiste na publicação da escala dos músicos e do repertório para cada dia com a interface mais simples possível.
+Meu primeiro projeto criado com flutter e totalmente integrado com Firebase desde autenticação ao banco de dados, para ajudar o grupo de louvor de uma igreja. O projeto consiste na publicação da escala dos músicos e do repertório para cada dia com a interface mais simples possível.
 
 <h1>Login</h1> 
 <ul> 
